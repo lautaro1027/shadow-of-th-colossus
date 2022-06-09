@@ -1,0 +1,19 @@
+body {
+    background-image: url(../imagenesposible/ fondo/ 3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+}
+details {
+    background-color: black;
+}
+a:link {
+    color: aliceblue;
+}
+body {
+    
+}
